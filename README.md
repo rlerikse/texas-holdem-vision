@@ -1,25 +1,13 @@
-# Texas Hold'em Vision
+Texas Hold'em Vision Project
 
-A computer vision application for real-time Texas Hold'em poker assistance.
+## Overview
+A computer vision application for Texas Hold'em poker that uses real-time card detection and probabilistic game analysis.
 
-## Project Overview
+## Project Goals
+- Develop a computer vision system for detecting poker cards
+- Implement real-time game state analysis
+- Create probabilistic poker hand evaluation
 
-This application uses advanced computer vision and machine learning techniques to:
-- Detect and identify playing cards
-- Calculate real-time winning probabilities
-- Provide strategic recommendations
-
-## Key Features
-- Real-time card detection
-- Probability calculations
-- Intuitive user interface
-- Multi-deck support
-
-## Development Status
-Project is currently in initial planning phase.
-
-## Tech Stack
-- Python
-- OpenCV
-- TensorFlow/PyTorch
-- Computer Vision Libraries
+## Current Status
+- Project initialized
+- Core vision detection framework to be developed
